@@ -1,0 +1,2 @@
+# funcionGeneradora.js
+FuncionGeneradora.js
